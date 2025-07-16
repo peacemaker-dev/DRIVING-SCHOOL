@@ -1,0 +1,67 @@
+Prices Page
+Code 8
+*Brush up
+	Deposit- R1000
+	Lessons - 15
+	10 min Lessons - R100
+	Car hire - R600
+	R2000
+
+*Full course
+	Deposit- R1000
+	Installment - R500
+	Lessons - 60
+	Two free tests
+	R4000
+
+*Half course
+	Deposit- R1000
+	Installment - R500
+	Lessons - 25
+	One free test
+	R2500
+
+Code 10
+*Brush up
+	Deposit- R1000
+	Lessons - 10
+	30 min Lessons - R150
+	Truck hire - R700
+	R2200
+
+*Full course
+	Deposit- R1000
+	Installment - R500
+	Lessons - 60
+	Two free tests
+	R4500
+
+*Half course
+	Deposit- R1000
+	Installment - R500
+	Lessons - 25
+	One free truck hire
+	R3200
+
+
+Code 14
+*Brush up
+	Deposit- R1000
+	Lessons - 15
+	30 min Lessons - R250
+	Truck hire - R1000
+	R4000
+
+*Full course
+	Deposit- R2000
+	Installment - R1000
+	Lessons - 60
+	Two free tests
+	R6500
+
+*Half course
+	Deposit- R2000
+	Installment - R1000
+	Lessons - 25
+	One free test
+	R5000
