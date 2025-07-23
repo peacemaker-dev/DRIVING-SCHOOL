@@ -386,7 +386,6 @@
 }
 
 /************* Enhanced Services Section *************/
-/************* Redesigned Services Section *************/
 .services-wrapper {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
@@ -422,7 +421,7 @@
   font-size: 0.95em;
   line-height: 1.5;
 }
-/****************************************************/
+
 /*************** Pricing Page ****************/
 .pricing-wrapper {
   padding: 50px 20px;
@@ -436,7 +435,7 @@
 }
 
 .pricing-category h2 {
-  color: #E53935;
+  color:#0D47A1;
   font-size: 2em;
   margin-bottom: 20px;
 }
@@ -482,6 +481,6 @@
 
 .price-card .total {
   font-weight: bold;
-  color: #D32F2F;
+  color:#1565C0;
   margin-top: 10px;
 }
