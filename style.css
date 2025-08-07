@@ -829,3 +829,96 @@ footer {
     font-size: 1em;
   }
 }
+
+/*************** Faq Page ****************/
+.page-intro{
+  text-align:center;
+  padding: 50px 20px 30px;
+  background-color: linear-gradient(120deg, #e3f2fd 70%, #fff8f8 100%);
+  color: #E53935;
+}
+
+.page-intro h1{
+  font-size: 2.2em;
+  margin-bottom: 10px;
+}
+
+.page-intro p{
+  color:#1565C0;
+  font-size: 1.1em;
+  margin-bottom: 0;
+}
+
+.booking-form-section{
+  max-width: 500px;
+  margin: 40px auto 60px auto;
+  padding: 0 16px;
+}
+
+.booking-form {
+  display:flex;
+  flex-direction: column;
+  gap: 18px;
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(21, 101, 192, 0.07);
+  padding: 28px 22px;
+}
+
+.booking-form label{
+  font-weight: 600;
+  color:#1565C0;
+  margin-bottom: 4px;
+}
+
+.booking-form input,
+.booking-form select,
+.booking-form textarea {
+  padding: 10px;
+  border: 1px solid #E3F2FD;
+  border-radius: 6px;
+  font-size: 1em;
+  margin-bottom: 8px;
+  background:#f7fbff;
+  color: #333;
+  transition: border-color 0.2s;
+}
+
+.booking-form input:focus,
+.booking-form select:focus,
+.booking-form textarea:focus {
+  border-color: #1565C0;
+  outline: none;
+}
+
+.booking-form button {
+  padding: 12px 0;
+  background-color: #E53935;
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  font-weight: bold;
+  font-size: 1.08em;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+
+.booking-form button:hover {
+  background-color: #1565C0;
+}
+
+@media (max-width: 600px) {
+  .page-intro {
+    padding: 30px 8px 18px;
+  }
+  .page-intro h1 {
+    font-size: 1.3em;
+  }
+  .booking-form-section {
+    padding: 0 4px;
+  }
+  .booking-form {
+    padding: 16px 6px;
+    font-size: 0.98em;
+  }
+}
